@@ -8,4 +8,3 @@ The purpose of the assignment was to enhance the understanding of hashing.</br>
 - The practical values are then compared with theoretical values.</br>
 (Formulas for theoretical values are taken from Donald Knuth from his 1998 edition of his book The Art of Computer Programming, Vol. 3)
 - A table is formed displaying all the values and the difference observed.
-- An executable provided on GitHub (Link on resume for privacy concerns)
